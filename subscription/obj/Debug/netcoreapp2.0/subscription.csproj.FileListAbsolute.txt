@@ -1,0 +1,8 @@
+C:\Projects\CloudApplications\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.deps.json
+C:\Projects\CloudApplications\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.runtimeconfig.json
+C:\Projects\CloudApplications\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.runtimeconfig.dev.json
+C:\Projects\CloudApplications\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.dll
+C:\Projects\CloudApplications\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.csprojResolveAssemblyReference.cache
+C:\Projects\CloudApplications\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.csproj.CoreCompileInputs.cache
+C:\Projects\CloudApplications\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.AssemblyInfoInputs.cache
+C:\Projects\CloudApplications\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.AssemblyInfo.cs
