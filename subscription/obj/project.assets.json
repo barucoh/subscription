@@ -12914,7 +12914,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\baruco\\.nuget\\packages\\": {},
+    "C:\\Users\\Tal\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12923,17 +12923,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CloudApplications\\subscription\\subscription\\subscription.csproj",
+      "projectUniqueName": "C:\\Users\\Tal\\cloudapplicationproject\\subscription\\subscription\\subscription.csproj",
       "projectName": "subscription",
-      "projectPath": "C:\\Projects\\CloudApplications\\subscription\\subscription\\subscription.csproj",
-      "packagesPath": "C:\\Users\\baruco\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CloudApplications\\subscription\\subscription\\obj\\",
+      "projectPath": "C:\\Users\\Tal\\cloudapplicationproject\\subscription\\subscription\\subscription.csproj",
+      "packagesPath": "C:\\Users\\Tal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tal\\cloudapplicationproject\\subscription\\subscription\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\baruco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

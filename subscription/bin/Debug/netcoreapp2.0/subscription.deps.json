@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "5904c935fc38147efcd2f2c8424c1269c278ca04"
+    "signature": "9fd8f62621b3e44ad041506eab55f7252d68b79c"
   },
   "compilationOptions": {
     "defines": [
@@ -32,6 +32,7 @@
           "RawRabbit.Enrichers.MessageContext.Subscribe": "2.0.0-rc2",
           "RawRabbit.Enrichers.Polly": "2.0.0-rc2",
           "RawRabbit.Extensions": "1.10.4",
+          "RawRabbit.Operations.Publish": "2.0.0-rc2",
           "RawRabbit.Operations.Subscribe": "2.0.0-rc2",
           "RawRabbit.Operations.Tools": "2.0.0-rc2",
           "RawRabbit.vNext": "2.0.0-beta8"
@@ -2513,6 +2514,18 @@
         },
         "compile": {
           "lib/netstandard1.5/RawRabbit.Extensions.dll": {}
+        }
+      },
+      "RawRabbit.Operations.Publish/2.0.0-rc2": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0",
+          "RawRabbit": "2.0.0-rc2"
+        },
+        "runtime": {
+          "lib/netstandard1.5/RawRabbit.Operations.Publish.dll": {}
+        },
+        "compile": {
+          "lib/netstandard1.5/RawRabbit.Operations.Publish.dll": {}
         }
       },
       "RawRabbit.Operations.Subscribe/2.0.0-rc2": {
@@ -5385,6 +5398,13 @@
       "sha512": "sha512-BhVDluwVeh5nEBkl/PzCgXWwnm7tn4tUaDvLis+25dfmgmdBo7KFa/MRQ9MysRG4VRmMri4bN8I77/L5pCrMmg==",
       "path": "rawrabbit.extensions/1.10.4",
       "hashPath": "rawrabbit.extensions.1.10.4.nupkg.sha512"
+    },
+    "RawRabbit.Operations.Publish/2.0.0-rc2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bvMvEpPnokV3Ml+qNchjuMGW2LX8CZ8CpWcZ9zFYBpPUFLxiznEUgcrV5lxbo06vuAfZvAiWbfeJXagabz9sJQ==",
+      "path": "rawrabbit.operations.publish/2.0.0-rc2",
+      "hashPath": "rawrabbit.operations.publish.2.0.0-rc2.nupkg.sha512"
     },
     "RawRabbit.Operations.Subscribe/2.0.0-rc2": {
       "type": "package",

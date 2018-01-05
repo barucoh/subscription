@@ -6,3 +6,14 @@ C:\Projects\CloudApplications\subscription\subscription\obj\Debug\netcoreapp2.0\
 C:\Projects\CloudApplications\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.csproj.CoreCompileInputs.cache
 C:\Projects\CloudApplications\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.AssemblyInfoInputs.cache
 C:\Projects\CloudApplications\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.AssemblyInfo.cs
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.deps.json
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.runtimeconfig.json
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.runtimeconfig.dev.json
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.dll
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\bin\Debug\netcoreapp2.0\subscription.pdb
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.csprojResolveAssemblyReference.cache
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.csproj.CoreCompileInputs.cache
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.AssemblyInfoInputs.cache
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.AssemblyInfo.cs
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.dll
+C:\Users\Tal\cloudapplicationproject\subscription\subscription\obj\Debug\netcoreapp2.0\subscription.pdb
