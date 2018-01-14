@@ -9,11 +9,6 @@ namespace subscription.Models
     {
         public string id { get; set; }
         public string[] images { get; set; }
-
-        public bool Append()
-        {
-
-            return 
-        }
+    
     }
 }

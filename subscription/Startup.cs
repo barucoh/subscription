@@ -49,7 +49,8 @@ namespace subscription
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMvc();
+            app.UseCors(options => options.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin().AllowCredentials())
+                .UseMvc();
         }
     }
 }

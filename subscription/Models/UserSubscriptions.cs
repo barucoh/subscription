@@ -9,7 +9,7 @@ namespace subscription.Models
     {
        public string _id { get; set; }
        public Subscribee[] subscribees { get; set; }
-
+       public string _rev { get; set; }
         public int AddSubscribee(Subscribee s)
         {
             this.subscribees.ToList().Add(s);

@@ -32,6 +32,7 @@ namespace subscription.Controllers
         // GET api/Subscriptions/subscribe
 
         [HttpPost]
+        [Route("subscribe")]
         public async Task<int> Subscribe([FromBody]Subscription subscription)
         {
 
@@ -68,7 +69,7 @@ namespace subscription.Controllers
         }
 
 
-        [HttpPost("{id}")]
+        [HttpPost]
         public async Task<int> RemoveSubscribee([FromBody]Subscription subscription)
         {
             Subscribee sub = null;
